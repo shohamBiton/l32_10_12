@@ -10,6 +10,7 @@ export default function Toggle() {
   }
 
   const para2 = () => {
+    
     // ניתן לחלק את הג'יי אס אקס לפונקציות שמזמנים ברטרן
     return <p className='text-danger'>
       para 2 something para 2 something 6666
